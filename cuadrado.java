@@ -8,7 +8,7 @@
 public class cuadrado
 {
     // instance variables - replace the example below with your own
-    private int x;
+    private int y;
 
     /**
      * Constructor for objects of class cuadrado
@@ -16,7 +16,7 @@ public class cuadrado
     public cuadrado()
     {
         // initialise instance variables
-        x = 0;
+        y = 0;
     }
 
     /**
